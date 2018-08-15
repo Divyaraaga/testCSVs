@@ -1,0 +1,5 @@
+bg_bug_id,assigned_to_app,severity,assigned_to_team,program,phase_found_in,defect_detection_date,PIDs,root_cause_app,summary
+439190,CSI,Severity1,TIER1,Other,Sanity/Shakeout,2/28/2018,295511c,CSI,ConfigchangesforCSiQ26candQ22
+438241,CSICPSVC,Severity3,Development,Mobility,ProductionValidationTest(PVT),2/27/2018,294546,CSICPSVC,BNS_PVT_294546_TimeoutErrorfromCSI
+437263,CSI,Severity2,Environment,Other,IntegratedSystemsTest(IST),2/26/2018,287493f,CSBOBPM,1804_CSTA_BOBPM_NeedtochangetheGVvalues
+439208,OPUS-C,Severity3,ProductionProblemManagement,Mobility,Production,2/28/2018,288618a,CSI,RC1-Itwillnotallowmetoselectadayortimeforinstall.

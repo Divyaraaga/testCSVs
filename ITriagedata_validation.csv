@@ -1,0 +1,357 @@
+bg_bug_id,assigned_to_app,severity,assigned_to_team,program,phase_found_in,defect_detection_date,PIDs,root_cause_app,summary
+439232,GRP-BNSE2EMobility,Severity1,EndtoEndTest,Mobility,EndtoEndTest(E2E),2/28/2018,300961,CSI,BNSE2E_R1802_300961_UnabletoseethecurrentdetailsofthedeviceforaCTNforOrderSIMflowinOPUSCOR1802FE
+439208,OPUS-C,Severity3,ProductionProblemManagement,Mobility,Production,2/28/2018,288618a,CSI,RC1-Itwillnotallowmetoselectadayortimeforinstall.
+439199,CSI,Severity1,Environment,Other,IntegratedSystemsTest(IST),2/28/2018,287493f,CSI,1710CSIEnvironment->ConfigChanges
+439190,CSI,Severity1,TIER1,Other,Sanity/Shakeout,2/28/2018,295511c,CSI,ConfigchangesforCSiQ26candQ22
+439096,CSI,Severity2,Testing,ECP-Cloverleaf,EndtoEndTest(E2E),2/28/2018,289148d,CSI,289148d-FailingTestCase289148D_1802_ETEBilling_BS_NA02_CallobWebServiceException-javax.net.ssl.SSLHandshakeException-GeneralSSLEngineproblem
+439073,CSICPSVC,Severity1,Development,Mobility,EndtoEndTest(E2E),2/28/2018,293876,CSICPSVC,BNS_E2E_R1804_293876_DPCCparametervalueshouldbeONDMDDEDandMOGisreceivingONDMDED
+439073,CSICPSVC,Severity1,Development,Mobility,EndtoEndTest(E2E),2/28/2018,293876,CSICPSVC,BNS_E2E_R1804_293876_DPCCparametervalueshouldbeONDMDDEDandMOGisreceivingONDMDED
+439062,CSFOBPM,Severity2,Environment,N&SS,Sanity/Shakeout,2/28/2018,Regression,CSFOBPM,1804_CSTA_BPM_Q27A_addLPmaskvaluetoexistingGVtibco.clientVar.IAP_ALL_MASK_VALUES
+438972,CSIAdapter,Severity1,Development,N&SS,IntegratedSystemsTest(IST),2/28/2018,Regression,CSIAdapter,1804_Q27A-CSBOBPM-ApplyUsageTreatment-NeedtoupdatetheGVvaluesforTAMbundle
+438928,CSICPSVC,Severity2,Environment,Mobility,IntegratedSystemsTest(IST),2/28/2018,289266d,CSICPSVC,ConfigchangeforCommonProvisioningServices-SmartNetwork
+438842,CSICPSVC,Severity2,Development,Mobility,ProductionValidationTest(PVT),2/28/2018,294546,CSICPSVC,BNS_PVT_294546_IncidentPortalshowedeligiblebutthereisanCSIexceptionforCTN4259798917
+438747,CSIOrderandSubscriptionMngt,Severity2,Environment,N&SS,Sanity/Shakeout,2/28/2018,Regression,CSIAdapter,1804_N&SSSM_InquireUnifiedOrderDetails_Q27A_200Error_CCRTSDB
+438484,ROME,Severity2,Testing,BusinessSolutions,Sanity/Shakeout,2/28/2018,Regression,CSI,JuneST-Regression-setBillAccountPackageisfailingfromGCPwiththefollowingerrormessage-NodatafoundforAttContractNumberinDB
+438432,CSI,Severity3,Triage,Other,UnitTest,2/27/2018,Regression,CSI,TAASTestValidation-Pleaseignoreit
+438256,CSIWorkForce,Severity1,EndtoEndTest,U-verse,EndtoEndTest(E2E),2/27/2018,298822b,CSIWorkForce,298822b-E2E-F47343-EdgeresponsetoLSCRMviaCSInotreceived
+438248,MSGRTR,Severity2,Development,Mobility,ProductionValidationTest(PVT),2/27/2018,294546,CSICPSVC,BNS_PVT_294546-TimeOutErrorforCTN4259798917
+438241,CSICPSVC,Severity3,Development,Mobility,ProductionValidationTest(PVT),2/27/2018,294546,CSICPSVC,BNS_PVT_294546_TimeoutErrorfromCSI
+437805,GIOM,Severity3,Development,Other,Sanity/Shakeout,2/27/2018,Regression,CSI,2/27GIOMBVoIP?FailedSanityIssueGettingerrorfromGCP
+437700,IGLOO,Severity1,Development,BusinessSolutions,UserAcceptanceTest(UAT),2/27/2018,289148d,CSI,289148d-UATEnv-ADIExpressOrder-Salesexpress-DesignSolution-ErrorUnabletoRetrieveEthernetToken
+437327,GRP-BNSE2EMobility,Severity1,EndtoEndTest,Mobility,EndtoEndTest(E2E),2/26/2018,293876,CSI,BNS_E2E_R1804_293876_Getting400BadRequestforTestClient
+437325,CSICustomerCare,Severity2,Development,N&SS,Sanity/Shakeout,2/26/2018,Regression,CSICustomerCare,1804_CP&TS_CSTB_Q27A_InquirePaymentProfile_PAMHTTPS_Issue
+437287,CSICustomerCare,Severity3,Environment,N&SS,Sanity/Shakeout,2/26/2018,Regression,CSICustomerCare,R1804_CP&TS_CSTB_CreateShippingLabel_Q27A_gettingAResourceRequiredByServiceIsNotAvailableerrorfrombackendNEWGISTICS
+437263,CSI,Severity2,Environment,Other,IntegratedSystemsTest(IST),2/26/2018,287493f,CSBOBPM,1804_CSTA_BOBPM_NeedtochangetheGVvalues
+437105,MSGRTR,Severity2,Development,Mobility,ProductionValidationTest(PVT),2/26/2018,294546,CSICPSVC,BNS_PVT_294546_GettingerrorasCSI5250UplifttransactionfailedforCTN
+437095,CSITroubleManagement,Severity2,Development,Mobility,UserAcceptanceTest(UAT),2/26/2018,294739b,CSIAdapter,1803UATBCS-294739b-Salesforce-DuetoReturnsParseExceptionforTicketOwnerFieldAllowingTooFewCharacters
+437056,CSICustomerCare,Severity2,Testing,Mobility,IterationTest,2/26/2018,300352,CSICustomerCare,ServiceMobileDeviceisgettingInternalServerError
+437023,CSINetworkManagement,Severity1,EndtoEndTest,Converged,EndtoEndTest(E2E),2/26/2018,288938e,CSI,R1802.post_WLL_ManageSIMStatusfailedinBBNMS
+436931,CSIProductandOfferMgt,Severity2,Environment,N&SS,IntegratedSystemsTest(IST),2/26/2018,Regression,CSIAdapter,1802_Q30B_SendMobileSubscriberNotification_GMAdapterCallsWithRetry/TERTIARY_ENVtobeSwitchON
+436906,CSI,Severity3,Testing,Other,Sanity/Shakeout,2/26/2018,Regression,CSI,TAASDBTestticket-Pleaseignoreit.
+436900,CSI,Severity3,Testing,Other,IterationTest,2/26/2018,Regression,CSI,TAASDBTestticket-Pleaseignoreit.
+436894,CSI,Severity3,Testing,Other,UnitTest,2/26/2018,Regression,CSI,TAASDBTestticket-Pleaseignoreit.
+436345,CSICPSVC,Severity1,Development,Mobility,ProductionValidationTest(PVT),2/23/2018,294546,CSICPSVC,BNS_PVT_294546_UpliftencounteredCSIControlExceptionovertimeswhencallingSWCforuplift
+436259,CSBOBPM,Severity3,Development,N&SS,IntegratedSystemsTest(IST),2/23/2018,Regression,CSBOBPM,1802HighfalloutcountforBOBPMsince1802releasewithlatestframeworkartifacts.
+436136,CSI,Severity2,Environment,Other,IntegratedSystemsTest(IST),2/23/2018,297394,CSI,"BF_03.18_SIT_Publish_Flow_Designer_Proxy_eOrdering_RegressionTesting_S5_GettingErrorcode90000000001,withfaultDescriptionServiceEnterpriseHSIAOrderResponseNotFoundinConfigurationinlogs."
+436090,CSIAdapter,Severity3,Development,Mobility,ProductionValidationTest(PVT),2/23/2018,294546,CSIAdapter,BNS_PVT_294546_TorchindicatesblankUpliftDate/Timeafterincidentcreated
+436073,CSIAdapter,Severity1,Environment,Mobility,ProductionValidationTest(PVT),2/23/2018,294546,CSIAdapter,BNS_PVT_294546_CTNisnotbeingrestoredafterbeingupliftedinportal
+436023,CSWFBPM,Severity2,EndtoEndTest,BusinessSolutions,EndtoEndTest(E2E),2/23/2018,297620a,CSWFBPM,PID297620a-DSARRequestisnotreflectinginWFBPMportal
+435993,NotAnApplication,Severity3,Environment,BusinessSolutions,Sanity/Shakeout,2/23/2018,SharedEnvironment,CSI,SD&ECRPWaiverApprovalProcessTaskReminderNotification(CRP1802131420)
+435797,CSFOBPM,Severity2,Development,N&SS,IntegratedSystemsTest(IST),2/23/2018,297620a,CSFOBPM,1802_Q27A_DatasubjectAccessRightsRecords_Unknownpropertyusedinexpression${archerDelegate.getTerminateRequest(sessionId)}.CauseCannotresolveidentifier'sessionId'
+435685,CSI,Severity1,IST-IntegratedSystemTest,BusinessSolutions,IntegratedSystemsTest(IST),2/23/2018,302596,CSIAdapter,HALOIST-ST3-DesignSubplanarenotgettingcreated
+435675,CSI,Severity1,Development,Converged,IntegratedSystemsTest(IST),2/23/2018,300547,CSI,Post1802_300547_OPUS_UnabletosearchamendBANfromEPOSaswellasfromHomePage.
+435558,(FED)-OMX,Severity1,Development,BusinessSolutions,IntegratedSystemsTest(IST),2/23/2018,Regression,CSI,HALO-IST-AVPN-R1803-ST3/QA14-CTHnotcreatedfordecomposeSalesOrderRequestfailureErrorTheServiceNameAVPNreturnedfromdecomposeisnotsupportedbybothOCX-CSIandOCX(CO-IM).
+435550,(FED)-OMX,Severity1,Development,BusinessSolutions,IntegratedSystemsTest(IST),2/23/2018,Regression,CSI,HALO-IST-AVPN-R1803-ST3/QA14-CSIFEDisnotsendingdecomposeSalesOrderRequesttoCOIM
+435226,SE,Severity1,Testing,BusinessSolutions,UserAcceptanceTest(UAT),2/22/2018,295359,CSI,1802>.DEMO>>173863>>ContractsarenotreflectinginSEfromRomeviaGCP>>CSIFEDGCP
+435148,GCP,Severity1,EndtoEndTest,BusinessSolutions,EndtoEndTest(E2E),2/22/2018,Regression,CSI,1804UATSolutionCRstuckatWaitingforBGWMessage-PlanSubscriptionCompleteNotification
+435118,GCP,Severity1,EndtoEndTest,ECP-Cloverleaf,EndtoEndTest(E2E),2/22/2018,295359,CSI,FailingTestCaseETE_BS_NA11_MOW_SDWANspeedCIRrequestisfailing
+435101,GRP-MHSExternalClientSupport(ECS),Severity1,Testing,Mobility,Sanity/Shakeout,2/22/2018,301730,CSI,manualsyncbetweenDEVSVNandQCSVNrequested
+435092,SalesExpress,Severity1,UAT-UserAcceptanceTest,BusinessSolutions,UserAcceptanceTest(UAT),2/22/2018,289148d,CSI,289148d-UAT-Mexico-UnknownErrorduringCC(SetSolutionisfailing)
+435076,OCX,Severity1,IST-IntegratedSystemTest,BusinessSolutions,IntegratedSystemsTest(IST),2/22/2018,302596,CSI,Collaborate-Qa14/ST3-GCpconflicts/listTnAssignmentByTNRangeResponseisfailing
+435054,CSI,Severity1,EndtoEndTest,Converged,EndtoEndTest(E2E),2/22/2018,300238a,CSIAdapter,R1802.POST-NeedPropertyfilechange
+434876,CSI,Severity2,Environment,Mobility,IntegratedSystemsTest(IST),2/22/2018,295511,CSFOBPM,1802_CP&TS-ACSFOBPM_Q30B_ProcessEnterpriseProvisioningOrder_NeedtocheckGVvalues
+434856,GCP,Severity2,IST-IntegratedSystemTest,Other,IntegratedSystemsTest(IST),2/22/2018,Regression,CSI,UATCollaborate_setPSPisfailinghenceGCisnotsuccessinUATenv
+434819,CSICPSVC,Severity2,Environment,N&SS,IntegratedSystemsTest(IST),2/22/2018,300238e,CSICPSVC,BF_SIT_03.18_Publish_DTVnowIntegratedoffersAPI_S5geteligibleofffersthrowing504timeout
+434805,CSI,Severity2,Development,Mobility,Production,2/22/2018,294381,CSI,ApplePDFtimeout
+434769,CSI,Severity1,UAT-UserAcceptanceTest,Mobility,UserAcceptanceTest(UAT),2/22/2018,297394,CSI,STG-CSIFUNCTIONAL-CDH-UserisreceivingCSIDealHashException'100-Insufficientpermissionstocompleterequestedtransaction.-Authorization/AuthenticationFailure-com.att.m2e.csi.common.exceptions.CSIControlExceptionAuthenticationPartner
+434580,CSICPSVC,Severity1,Environment,N&SS,IntegratedSystemsTest(IST),2/22/2018,300238e,CSICPSVC,BF_SIT_03.18_Publish_DTVnowIntegratedoffersAPI_S5geteligibleofffersnotshowing35$discountforNYCdata
+434519,CSI,Severity1,Environment,Other,IntegratedSystemsTest(IST),2/22/2018,287493a,CSI,1804CSIEnvironment->ConfigChanges
+434422,CSI,Severity1,Environment,Mobility,IterationTest,2/22/2018,302286,CSI,Premier/POCB/1804/Sprint4/PQCE21FacingtechnicalissueswhilesubmittingtransactionsfromPremierPOCApplicationinPQCE21environment
+434384,CSICustomerCare,Severity3,Development,Mobility,Production,2/21/2018,ProductionFix,CSICustomerCare,BCARE-ConnectedCar-AccounttypenotSupported
+434275,CSI,Severity2,Development,U-verse,Production,2/21/2018,ProductionFix,CSI,ACTIONISNOTALLOWED-THEINTERFACEHASBEENINVOKEDOUTOFSEQUENCEFORTHISBUSINESSPROCESS
+434211,CSIAdapter,Severity2,EndtoEndTest,Mobility,EndtoEndTest(E2E),2/21/2018,299509,CSIAdapter,Pleasechangeconfigurationasmentionedinq25.q22emvironments.
+434037,CSI,Severity1,Environment,N&SS,IntegratedSystemsTest(IST),2/21/2018,301218,CSI,BF_SIT_03.18_Publish_DTVnowIntegratedoffersAPI_S5throwing500CPSservererrorforgeteligibleofffers
+433941,OCX,Severity1,IST-IntegratedSystemTest,BusinessSolutions,IntegratedSystemsTest(IST),2/21/2018,302596,CSI,HALO-IST-1804-TriggerUSRPisfailingwithUnsuccessfulInquireEnterpriseOrderData/InquireOrderDataCall
+433895,CSFOBPM,Severity3,Environment,N&SS,IntegratedSystemsTest(IST),2/21/2018,294546,CSFOBPM,updaterestoralintervaltimefrom7200000millisto1800000millisforFirstNetNetworkConfigurationinQ28(from2hourto30mins)
+433839,CSI,Severity2,Development,Other,IntegratedSystemsTest(IST),2/21/2018,297394,CSI,BF_03.18_SIT_Publish_Flow_Designer_Proxy_eOrdering_RegressionTesting_S5_NotificationsarenotdisplayedinListenerURI.
+433619,CSFOBPM,Severity3,Development,Mobility,Production,2/21/2018,Non-ITOrg,CSFOBPM,Weareunabletoactivatethisdevicebecauseitisalreadyactiveondifferentsubscriber
+433085,SalesExpress,Severity1,Testing,Other,IntegratedSystemsTest(IST),2/20/2018,289148d,CSIAdapter,ST_RegressionADIInquireEnterprisePriceQuoteDetailsfailingtoretrievetokeninUATenv-T4
+433075,CSICPSVC,Severity1,EndtoEndTest,Mobility,EndtoEndTest(E2E),2/20/2018,293876,CSICPSVC,BNS_E2E_R1804_293876_Getting500ServerErrorforTestClient
+432975,CSFOBPM,Severity2,Environment,Mobility,IntegratedSystemsTest(IST),2/20/2018,290772b,CSIAdapter,1804_CSFOBPMmicroServices_Q27A_FraudPrevention_SubscriberContactVerification_UpdateURLforROMEadapter
+432973,CSIAdapter,Severity2,Environment,N&SS,UserAcceptanceTest(UAT),2/20/2018,301218,CSIAdapter,"BF_03.18_UAT_Publish_Regression_MIMconsentpageisnotopening,GettingerrorSorry,therewasaproblem."
+432940,CSFOBPM,Severity2,Development,N&SS,IntegratedSystemsTest(IST),2/20/2018,297620a,CSFOBPM,"1804_Q27A-DataSubjectAccessRightsRecords_forretrivealoffile,FOBPMdoesnotprovidefilename-insteaditprovidesbytes"
+432661,CSBRMS,Severity3,Development,N&SS,IntegratedSystemsTest(IST),2/20/2018,Regression,CSBRMS,"1802-Q30BDUCSCR-1801-0562iMEIMismatchRulesTesting,MatchingWrongRules."
+432586,CSFOBPM,Severity1,Environment,Mobility,IntegratedSystemsTest(IST),2/20/2018,Regression,CSFOBPM,1802-Regression-CCAR-EnrollmentordersarefailingatMoveMobileSubscriber
+432408,GCP,Severity1,IST-IntegratedSystemTest,BusinessSolutions,IntegratedSystemsTest(IST),2/20/2018,302596,CSI,HALOISTAUTO-1804-ST3-ISODResponseisfailingcom.att.m2e.csi.common.exceptions.CSIControlExceptionAuthenticationPartnerFailed
+432386,OCX,Severity1,IST-IntegratedSystemTest,BusinessSolutions,IntegratedSystemsTest(IST),2/20/2018,294728b,CSI,CollaborateIST-ST4-Post1802-InquireFiberServiceLocalRoutingNumbersRequestisfailingwithCSIerror
+432286,myAT&TSales,Severity3,AssemblyTest,Mobility,AssemblyTest,2/20/2018,300238a,CSICustomerCare,1802.c_EAP_Incorrectcontentdisplayedinactivationmail
+432089,myAT&TSales,Severity1,Development,U-verse,IntegratedSystemsTest(IST),2/19/2018,Regression,CSI,1802_tst02_FMOaddressordercomingasPMOorders
+432016,NRTCCPS,Severity1,EndtoEndTest,Mobility,EndtoEndTest(E2E),2/19/2018,294187,CSICPSVC,"ERROR->UPRsystemisnotavailable.,messageIdCPS.UPR-0001"
+431981,CSI,Severity1,Environment,Other,Sanity/Shakeout,2/19/2018,298316,CSI,EDFGENRICconfigchangesforCSiQ22ha
+431965,MR,Severity1,Development,Mobility,ProductionValidationTest(PVT),2/19/2018,294546,CSICPSVC,BNS_PVT_294546_1802_UpliftupdatecallfromCSItoSWCismissing
+431942,CSIAdapter,Severity2,Environment,N&SS,IntegratedSystemsTest(IST),2/19/2018,294564b,CSIAdapter,"BF_03.18_SIT_Publish_FirstNetIOC2_S5IMMN,MIMConsentURLlandsdirectlyintoProvisioningerror"
+431838,APIOGW,Severity1,Operational,Other,Production,2/19/2018,295511,CSI,Gateway2128.0.x-GatewayretryingonschemaerrorsforFOBPMservices
+431706,CSI,Severity1,EndtoEndTest,Mobility,EndtoEndTest(E2E),2/19/2018,294187,CSI,http//www.csi.cingular.com200Serviceisnotavailable.
+431704,CSIAdapter,Severity1,Environment,Other,IntegratedSystemsTest(IST),2/19/2018,297035,CSIAdapter,"GMAdapterGVvalueupdateneededfor1710,1802,1803forPEP4837"
+423507,GRP-EQEHomeSolutionsE2E,Severity1,EndtoEndTest,Converged,EndtoEndTest(E2E),2/7/2018,296041,CSI,R1802_C104_R22016_FIE_OPUS_D11B_OMS1AT01_ISAAC_UFOUnabletoactivateSwaporderReceiverfromISAAC
+423423,CSIProductandOfferMgt,Severity2,Environment,N&SS,IntegratedSystemsTest(IST),2/7/2018,Regression,CSI,1802_Q30B_NeedtoupdatetheCPCadapterGv's
+423370,CSBRMS,Severity1,Development,Other,EndtoEndTest(E2E),2/7/2018,282497d,CSBRMS,1802FIXTPREUCT-InappropriateBRMSErrorsGivenonDCSBulkRelink
+423350,CSBOBPM,Severity1,IST-IntegratedSystemTest,N&SS,IntegratedSystemsTest(IST),2/7/2018,287493f,CSBOBPM,1801_CP&TS-ACSBOBPM_Q30A_BOBPMOrders_BOBPM_OrderManagementAndMore_T3Configchanges
+423348,CSFOBPM,Severity1,IST-IntegratedSystemTest,N&SS,IntegratedSystemsTest(IST),2/7/2018,294546,CSFOBPM,1802_CP&TS-ACSFOBPM_Q30B_FirstNetNetworkConfiguration_MakeQ30Benvspecificvariables
+423250,GRP-MHSExternalClientSupport(ECS),Severity2,QualityControl,UnifiedCollectionSystem,UnitTest,2/7/2018,298592,CSI,STI-EUCCresponsenotreturningAlertSeverityAforstismbc
+423075,CSIAdapter,Severity1,Environment,N&SS,RapidDeploymentTest(RD),2/7/2018,RapidDeployment,CSFOBPM,1802_Q30B-needtochangetheCCRRURL
+422770,SSDF,Severity1,IST-IntegratedSystemTest,BusinessSolutions,IntegratedSystemsTest(IST),2/7/2018,Non-ITOrg,CSI,"UAT-Regression-UnabletocreatesolutioninADOPT(whenlaunchedfromROME,Pageisnavigatingtohomescreen.)"
+422701,LSCRM,Severity1,IST-IntegratedSystemTest,U-verse,IntegratedSystemsTest(IST),2/7/2018,RapidDeployment,CSICustomerCare,R1802GettingTimeoutissueonINTAENV
+422536,CSBOBPM,Severity2,Development,Other,UnitTest,2/6/2018,2017S33772,CSBOBPM,spm_timingtabledatamissingforCustomerRewardsComplianceserviceinms
+422322,CSICustomerCare,Severity2,Environment,N&SS,IntegratedSystemsTest(IST),2/6/2018,Regression,CSICustomerCare,1803_CP&TS_CSTB_Q24B_InquireCustomerSnapshot_GRID_URL_Change
+422229,CSICustomerCare,Severity1,Tables,Mobility,IterationTest,2/6/2018,302286,CSICustomerCare,ISADAPIisfailingduetoAResourceRequiredByServiceIsNotAvailablewithNotrustedcertificatefound
+422213,CSICPSVC,Severity2,SCM-SoftwareConfigurationMgmt,Mobility,IterationTest,2/6/2018,294546,CSICPSVC,MOGURLneedstobechangedinQ30(1802)
+421969,CSI,Severity2,Environment,ECP-Cloverleaf,EndtoEndTest(E2E),2/6/2018,295960c,CSI,295960C_ETE_BS_IB01_AVPN_UB_DS_DOM_EsigntransactionIDismissingwhenlaunchingesigntodocountersignature
+421829,GCP,Severity2,EndtoEndTest,ECP-Cloverleaf,EndtoEndTest(E2E),2/6/2018,295960c,CSI,"295960c_AVPN_GettingdifferentcustomernameinADOPT,comparetoROME"
+421652,CSI,Severity1,Environment,Mobility,IntegratedSystemsTest(IST),2/5/2018,Regression,CSI,Phoenix1802_CSI_GettingServiceisnotavailable.Pleasetryagainlater.
+421542,CSIWorkForce,Severity1,ProductionProblemManagement,Mobility,Production,2/5/2018,Regression,CSIWorkForce,241376254_RC1_CannotretrieveinstalldatesforDTV
+421486,GRP-EQEMobilityE2E,Severity2,Testing,Mobility,EndtoEndTest(E2E),2/5/2018,300856,CSI,1802_E2E_300856_NotgettingACuraPrepaidCTNmovedtoPostpaidSDGSDGN1plan
+421295,ATTeBiz,Severity3,IST-IntegratedSystemTest,Other,Sanity/Shakeout,2/5/2018,Regression,CSI,UAT2FAQ--Registration&LogintheimageinGETHELPFROMCOMMUNITYFORUMsectionappearstobebroken
+421264,(FED)-BGW,Severity1,Environment,BusinessSolutions,IntegratedSystemsTest(IST),2/5/2018,282497d,CSI,PID282497dForQ28ISTenvironmentgettingexception
+421231,CSBOBPM,Severity1,Testing,N&SS,IntegratedSystemsTest(IST),2/5/2018,295667d,CSBOBPM,1802_Q30B_IntegratedOffers-facingBOBPMandCDFconnectivityissue.
+420564,CSI,Severity3,Environment,BusinessSolutions,IntegratedSystemsTest(IST),2/4/2018,295960c,CSI,295960c-CLSRflow-SR-inSRdetailsCLSRlaunchinginkdidntgetgenerated
+420195,CSWFBPM,Severity3,Development,Mobility,IntegratedSystemsTest(IST),2/2/2018,295511,CSWFBPM,1802_CSWFBPM_295511_MobilizationofAT&TCollaborate_AOTS_AutomaticRefresh
+419984,CSFOBPM,Severity1,Development,Mobility,EndtoEndTest(E2E),2/2/2018,294546,CSFOBPM,BNS_E2E_R1802_294546_ForExtendUpliftstatusisnotupdatinginIMPPortal.
+419903,GRP-EQEHomeSolutionsE2E,Severity1,EndtoEndTest,Converged,EndtoEndTest(E2E),2/2/2018,Regression,CSI,R1802MPIEOPUSNNAT&TUnifiedOrder-ServiceInstallationSpecifieddatedoesnothaveanytimeslots
+419801,CSIAdapter,Severity1,Testing,N&SS,IntegratedSystemsTest(IST),2/2/2018,294546,CSFOBPM,1802_CP&TS-ACSFOBPM_Q30B_FirstNetNetworkConfiguration_NotgettingswcAsync
+419760,CSFOBPM,Severity1,Development,Mobility,EndtoEndTest(E2E),2/2/2018,294546,CSFOBPM,BNS_E2E_R1802_294546Restoredstatusisnotgettingupdatedinportal-https//test-incidentmgt.firstnet.att.com
+419737,Bloopy/DQT,Severity2,Development,BusinessSolutions,Production,2/2/2018,288778c,CSICustomerCare,BloopySENotWorking
+419705,CSICustomerCare,Severity1,AssemblyTest,Mobility,AssemblyTest,2/2/2018,300238a,CSICustomerCare,1802.b_EAP_InquireMobileSubscriberProfileAPIisfailingatCSIQ28-Tst04
+419684,"MyATT,MSe",Severity1,IST-IntegratedSystemTest,Mobility,IntegratedSystemsTest(IST),2/2/2018,Regression,CSI,R1802/1803_RegressionLoginissueonbothwebandDSSenvironments
+419638,GRP-EQEHomeSolutionsE2E,Severity1,EndtoEndTest,Converged,EndtoEndTest(E2E),2/2/2018,Regression,CSI,R1802MPIEOPUSNNST8.xFlowgettingReviewrequiredforUverseservices
+419162,SalesExpress,Severity1,IST-IntegratedSystemTest,Other,IntegratedSystemsTest(IST),2/1/2018,296041,CSI,ST_Progresssion_296041_AppointmentdatesarenotretrirvedforVoiceorders_ExistingCustomers
+419137,CSI(FED)-SSDF,Severity1,Development,Other,UnitTest,2/1/2018,2017S33772,CSFOBPM,IR1089511com.att.csidCSIshared-config128.0.17REl1802
+419090,CSICustomerCare,Severity2,Development,BusinessSolutions,EndtoEndTest(E2E),2/1/2018,284465h,CSICustomerCare,"R1802,PID284465h,ETETesting,COP,NSF45923>>SynctoEUAMfeaturenotworkingforadding171additonalInvoiceAdditionalCDGBlockpresentinrequesttoBGW"
+418916,CSICustomerCare,Severity2,Development,N&SS,IntegratedSystemsTest(IST),2/1/2018,293608a,CSICustomerCare,1802_CP&TS_CSTB_Q30B_InquireCustomerSnapshot_ERICSSON_field_not_retrieved_in_public_response
+418901,Bloopy/DQT,Severity3,Triage,BusinessSolutions,AssemblyTest,2/1/2018,288778c,CSICustomerCare,NewServicePolicyforITPAclients
+418828,SalesExpress,Severity1,IST-IntegratedSystemTest,Other,IntegratedSystemsTest(IST),2/1/2018,292308c,CSI,ST_Regression-AddressValidationisfailingforATTCollaborateandIPFROTTon1804(Test2)env
+418746,CSBOBPM,Severity2,Development,N&SS,IntegratedSystemsTest(IST),2/1/2018,Regression,CSBOBPM,1802_Q30B-ProcessPortingNotification-GettingPre-IVPXMLValidationErrorSchemaforAsyncParallelProcessRequestforversionproxy
+418603,CSICreditandVal,Severity3,Environment,Other,IntegratedSystemsTest(IST),2/1/2018,Regression,CSICreditandVal,1803_Q46A_GRID_InquireCollectionData_900_Unknownerror
+418473,CSIeSSD,Severity2,Testing,N&SS,IntegratedSystemsTest(IST),2/1/2018,301218,CSIeSSD,BF_02.18_SIT_Non-Publish_CSIGRID_S2_AegisBundleCallMgmtV4AcceptT&CUpdateServicePlanUsingAppleReceipt-shows500ISE
+418109,CPC,Severity3,Development,Mobility,IntegratedSystemsTest(IST),2/1/2018,295511,CSIAdapter,295511_1802NotabletogetSKUdetailsinInquireAvailableAccessorycall.
+418048,CPC,Severity3,Development,Mobility,IntegratedSystemsTest(IST),2/1/2018,295511,CSIAdapter,295511_1802NotabletogetSKUdetailsinInquireAvailableDevicecall.
+417809,SalesExpress,Severity1,Testing,Other,IntegratedSystemsTest(IST),2/1/2018,289148d,CSI,QualifyAddressesPortTypeAPIisfailingonFEBSTandUATenviorments
+417712,OPUS-C,Severity3,ProductionProblemManagement,Mobility,Production,1/31/2018,ProductionFix,CSI,"CCARE-ThePasscodeforDIRECTVinthisviewisshowingspecialcharachters,alphacharactersandnumbers"
+417557,CSFOBPM,Severity2,Development,N&SS,IntegratedSystemsTest(IST),1/31/2018,294546,CSFOBPM,1802_CP&TS-ACSFOBPM_Q30B_FirstNetNetworkConfiguration_CCRRmSnotavailable
+417455,CSICustomerCare,Severity3,Development,N&SS,IntegratedSystemsTest(IST),1/31/2018,295667d,CSICustomerCare,R1802_CP&TS_CSTB_InquireSubscriberPromoDetails_Q30B_productTypeisOptionalFieldinrequestschemabutwithoutthatgettingschemaerrorinresponse
+417421,CSI,Severity2,Testing,Other,IntegratedSystemsTest(IST),1/31/2018,301020,CSI,"BF_02.18_SIT_Non-Publish_MobileSecurity&CallProtectOpt-in_S2Prodrealmcredentialsarenotworkingwithsecurewifiserviceid,seeing403ForbiddenwithinvalidscopeinAPIcalls"
+417402,CSI(FED)-SSDF,Severity2,Development,Other,UnitTest,1/31/2018,2017B33772,CSBOBPM,IR1088495com.att.csidGlobalComputingPlatformOrdering_CustomerPremiseAndMore229.0.1ErrorinlogRel1803
+417379,OPUS-C,Severity2,UAT-UserAcceptanceTest,Mobility,UserAcceptanceTest(UAT),1/31/2018,295667a,CSI,Post1801_RetailUAT_295667a_ExistingIPTVcustomeraddingwrlsnotshowingrequiredIO
+417371,"MyATT,MSe",Severity2,PVT-ProductionVolumeTest,Other,ProductionValidationTest(PVT),1/31/2018,Regression,CSIAdapter,OPSSProductionFirstNetchattilenotseeforFirstNetcustomerwhentheysearchfortheirorder.
+417150,CSI,Severity3,Development,Other,UnitTest,1/31/2018,2017S33772,CSI,"SPMtimingtableisnotupdatedformSUserOptInConsents,pleasevalidatedashboardloggingsetup."
+417139,CSI,Severity3,Development,Other,UnitTest,1/31/2018,2017S33772,CSICPSVC,"SPMtimingtableisnotupdatedformSUnifiedVoiceHosting,pleasevalidatedashboardloggingsetup."
+417009,CSIAdapter,Severity2,Development,Other,UnitTest,1/31/2018,2017S33772,CSIAdapter,Adapter.mapshouldnotbeinconfigrole.itshouldbeindockerimageformScom.att.csi.provisionconf.dc.IoTDeviceUpliftNetworkConfiguration
+416974,CSI,Severity1,Environment,Mobility,IntegratedSystemsTest(IST),1/31/2018,300238a,CSI,1802.d_EAP_ICDSAPIisfailingatCSIQ28-Tst04
+416876,OPUS-C,Severity1,UAT-UserAcceptanceTest,DTV,UserAcceptanceTest(UAT),1/31/2018,295667c,CSI,Amendflow-HardstopafterselectingamendfromOrderSummary.Getanerrorpopupscreen
+416834,CSICustomerCare,Severity2,Environment,N&SS,IntegratedSystemsTest(IST),1/31/2018,Regression,CSICustomerCare,1802_CP&TS_CSTB_Q30B_ValidatePrepaidCustomer_VESTA_URL_change
+416648,CSICPSVC,Severity2,Testing,Mobility,IntegratedSystemsTest(IST),1/31/2018,Regression,CSICPSVC,Q28_SessionManagement_CreateSession_MOGserviceisnotaccessible
+416466,GRP-ET-Halo,Severity1,IST-IntegratedSystemTest,BusinessSolutions,IntegratedSystemsTest(IST),1/31/2018,294728b,CSI,CollaborateIST-AUTO-UpdateEnterpriseOrderStatusisfailinginOMSlogs
+416273,CSFOBPM,Severity3,Development,Mobility,IntegratedSystemsTest(IST),1/30/2018,294546,CSFOBPM,1802mSFirstNetDeviceNotificationRouter-SPMtimingtableisnotgettingupdated
+416267,CSFOBPM,Severity1,Development,N&SS,IntegratedSystemsTest(IST),1/30/2018,289148d,CSICPSVC,1802_Q30B_FOBPMOrders_CreateEnterpriseBillPreview_FacingOperationTimedOutfromGateway
+416264,CSFOBPM,Severity2,Development,Mobility,IntegratedSystemsTest(IST),1/30/2018,282215,CSFOBPM,1802mSEnterpriseUnifiedOrder-moveAdapter.mapfromconfigroletodockerimage
+416252,CSFOBPM,Severity1,Development,Mobility,IntegratedSystemsTest(IST),1/30/2018,289148d,CSFOBPM,1802mSEnterpriseBillPreview-configmapchangesrequired
+416181,EDF,Severity2,IST-IntegratedSystemTest,Mobility,IntegratedSystemsTest(IST),1/30/2018,295511,CSICPSVC,R1802_Q30B_UnifiedVoiceHosting_UpdateEnterpriseBAN
+416135,CSICPSVC,Severity1,Development,Mobility,EndtoEndTest(E2E),1/30/2018,295511,CSICPSVC,BNS-E2E_TrackingSOCisgettingaddedwhenPseudoCTNprovisioninggetscomplete.
+416078,CSFOBPM,Severity1,Development,Mobility,IntegratedSystemsTest(IST),1/30/2018,295511,CSI,1802-mSEnterpriseProvisioningOrder-MoveAdapter.mapauditlogrulesetresponserulesetfiles
+416025,EDF,Severity1,Development,Mobility,IntegratedSystemsTest(IST),1/30/2018,295511,CSICPSVC,R1802_Q30B_UnifiedVoiceHosting_DeleteEnterpriseSubscriber
+415882,CSI,Severity2,Environment,Mobility,IntegratedSystemsTest(IST),1/30/2018,Regression,CSI,BESTAPIsfailingonPQCE16(backupforTDP404480)
+415824,"MyATT,MSe",Severity2,ProductionProblemManagement,Mobility,Production,1/30/2018,Regression,CSIAdapter,ObservingspikeinerrorLGNSFID03
+415692,CSICustomerCare,Severity1,Development,N&SS,IntegratedSystemsTest(IST),1/30/2018,295667d,CSICustomerCare,R1802_CP&TS_CSTB_InquireSubscriberPromoDetails_Q30B_new_field_not_returned
+415667,CSI,Severity3,Environment,Other,IntegratedSystemsTest(IST),1/30/2018,294381,CSI,AchangefortheCSIenvironment(configforEDPDBAdapter)
+415614,CSICustomerCare,Severity2,Environment,N&SS,ProductionValidationTest(PVT),1/30/2018,Regression,CSICustomerCare,1802_CP&TS_CSTB_Q30A_InquirePurchaseOrderInvoice_ConfigIssue
+415504,CSBOBPM,Severity2,IST-IntegratedSystemTest,N&SS,IntegratedSystemsTest(IST),1/30/2018,294081,CSBOBPM,1802_Q30B_BOBPMCustomercare_BOBPM_SubscriberChangesAndMore-facingschemaerrorfromUpdatesubscriberProfileatUpdateCustomerInfo
+415281,GRP-ET-Halo,Severity1,IST-IntegratedSystemTest,BusinessSolutions,IntegratedSystemsTest(IST),1/30/2018,294728b,CSI,Collaboarte-QA16/ST5/R1711-UpdateEnterpriseOrderStatusResponseisfailingwitherrorServiceisnotavailable.Pleasetryagainlater
+415187,LS-OMS,Severity2,IST-IntegratedSystemTest,Converged,IntegratedSystemsTest(IST),1/30/2018,Regression,CSI,R1802--PROADisclosureLinknotloadedforVoluntarySuspend
+414860,OPUS-C,Severity2,PST-ProductionSupportTest,U-verse,ProductionValidationTest(PVT),1/29/2018,297518a,CSI,PVT-ConsumerCare-297518a-DTVRTP-notshowingtheofferdescriptioninaddatnoextracostwindowwhiledoingnewdtvorder
+414776,GRP-MHSExternalClientSupport(ECS),Severity1,UAT-UserAcceptanceTest,Mobility,UserAcceptanceTest(UAT),1/29/2018,301730,CSFOBPM,MoveMobileSubscriberfailinginCSIQ29
+414759,CSFOBPM,Severity1,Development,N&SS,IntegratedSystemsTest(IST),1/29/2018,294546,CSFOBPM,1802_CP&TS-ACSFOBPM_Q30B_FirstNetNetworkConfiguration_Kafkatopicissue
+414706,CSICustomerCare,Severity3,Development,N&SS,IntegratedSystemsTest(IST),1/29/2018,Regression,CSICustomerCare,1802_N&SSSM_Q30B_InquireSubscriberPromoDetails_CSI_DEV_AddingintegratedOffersIndicator>truefieldinrequestgettingservicenotavailableerrorfromCSI
+414611,CSIWorkForce,Severity2,Environment,Other,IntegratedSystemsTest(IST),1/29/2018,Regression,CSIWorkForce,1802_CST-A_Q30B_AssignAvailableWorkOrder_<200>Serviceisnotavailable
+414599,CSFOBPM,Severity1,Development,Mobility,EndtoEndTest(E2E),1/29/2018,294546,CSFOBPM,BNS_E2E_R1802_294546_FirstNet-IMLC-CTNstatusdoesnotreverttoEligibleafterupliftisexpired.
+414473,CSICPSVC,Severity1,Development,Mobility,IntegratedSystemsTest(IST),1/29/2018,295511,CSICPSVC,"R1802_Q30b_UnifiedVoiceHosting_Create,Get,DeleteEnterpriseSubscriber_GettingCPSsystemerror"
+414420,CSBOBPM,Severity1,Testing,Mobility,EndtoEndTest(E2E),1/29/2018,295512a,CSBOBPM,BNS_E2E_R1802_295512a_OrderfailedinOCEwith'UpgradeEquipment-Fail'Status
+414223,OPUS-C,Severity1,UAT-UserAcceptanceTest,Mobility,UserAcceptanceTest(UAT),1/29/2018,287885b,CSI,1802_RetailOPUSUAT_287885b_UserisgettingerrorwhiletryingtoupdateNewPINcode.
+414203,LSUSRPRT,Severity2,IST-IntegratedSystemTest,U-verse,IntegratedSystemsTest(IST),1/29/2018,Regression,CSI,1802>UvPDev>Configmissmatch...whileconnectingtoSPPviaCSI
+414152,myAT&TSales,Severity1,IST-IntegratedSystemTest,U-verse,IntegratedSystemsTest(IST),1/29/2018,Regression,CSI,1802-NEW+NEW-OrdersgettingstuckatITPAcall-automationstuck
+414143,CSICustomerCare,Severity3,Development,N&SS,IntegratedSystemsTest(IST),1/29/2018,Regression,CSICustomerCare,1802_CP&TS_CSTB_InquirePurchaseOrderInvoice_Q30A_v227_Adapterschemachange
+414096,CSIOrderandSubscriptionMngt,Severity1,EndtoEndTest,Converged,EndtoEndTest(E2E),1/29/2018,292456b,CSI,R1802_MDU_FIECancelledordersfromOPUSarenotreachingOMS
+414084,SalesExpress,Severity1,UAT-UserAcceptanceTest,BusinessSolutions,UserAcceptanceTest(UAT),1/29/2018,289148d,CSI,289148d-UAT-CSIerrorconnectionreset
+414082,GRP-BNSE2EMobility,Severity1,EndtoEndTest,Mobility,EndtoEndTest(E2E),1/29/2018,290426f,CSI,R1802_BNS_E2E_290426f_RequesttoraiseremedyagainstCAMteam
+355715,CSI,Severity 1,IST - Integrated System Test,Other,Integrated Systems Test (IST),11/14/2017,292456g,CSI,Call not reaching CSI for CSI_InquireAMSEndUserProfile in CSI Env Q25
+354446,CS WFBPM,Severity 2,Development,N&SS,Integrated Systems Test (IST),11/13/2017,295674,CS WFBPM,1710_Q27C_CS WFBPM_Metadata and Audit_getting repeated lines or more than one in emailbody 1 and typo
+354451,CSICPSVC,Severity 2,Development,Mobility,Production,11/13/2017,289584c,CSICPSVC,Enable COU and CRU account for RTT in RTTMessaging microservices
+354552,CSICustomer Care,Severity 2,Development,N&SS,Integrated Systems Test (IST),11/13/2017,299488,CSICustomer Care,1710_Q27c (POD URL hltv0671)_UverseAccountProfile PricePlanData null elements return in response
+353758,CS BOBPM,Severity 2,Development,N&SS,Integrated Systems Test (IST),11/13/2017,295667a,CS BOBPM,OMS promo expiration rules are not matched and it is moved to 'No Rule Match' table.
+353833,CS BOBPM,Severity 3,Development,N&SS,Integrated Systems Test (IST),11/13/2017,295667a,CS BOBPM,mS-DTVIntegratedoffers is not publish the feed file in server tmp folder and 'processed' status is not changed in DUCS table.
+353727,iCAS,Severity 3,Development,Mobility,Integrated Systems Test (IST),11/13/2017,296645,CSI,MyCRSM Defect: Policy Matrix Export Process
+353125,CSICustomer Care,Severity 2,Development,U-verse,Production Validation Test (PVT),11/12/2017,Regression,CSICustomer Care,PVT - 1711 Regression Change order Stuck at SetStatus BAN 134647823 (AOTS 238430872)
+352480,CSI,Severity 1,IST - Integrated System Test,Mobility,Integrated Systems Test (IST),11/10/2017,295582,CSI,1710_OPUS_295582_ SendAuthendicationPIN  API is failing
+352555,CS WFBPM,Severity 3,Development,N&SS,Integrated Systems Test (IST),11/10/2017,295674,CS BRMS,1710_Q27C_CSWFBPM_295674_ dataGovernance value needs to be removed from BRMS rules
+352405,CS BRMS,Severity 1,Development,N&SS,Integrated Systems Test (IST),11/10/2017,300581,CS BRMS,1710_Q27C_BOBPM_SmartChat - facing Error while invoking Camunda error while posting transaction in DME2
+352168,iCAS,Severity 2,IST - Integrated System Test,Mobility,Integrated Systems Test (IST),11/10/2017,300547,CSI,Getting Service is not available error in response form CSI during Credit Check in Q25
+352395,CSI,Severity 1,IST - Integrated System Test,Mobility,Integrated Systems Test (IST),11/10/2017,291072e,CSIAdapter,FASTBPM_CSICustomerCare_InquireWirelineUsageDetail
+352762,CSI,Severity 3,Production Problem Management,Mobility,Production,11/10/2017,Production Fix,CSI,Need log of data sent to TLG
+350626,OCE,Severity 1,IST - Integrated System Test,Mobility,Unit Test,11/9/2017,Regression,CSIAdapter,CRU  Order triggering ECC fails with Fatal Error
+351326,CSI,Severity 1,Triage,Other,Integrated Systems Test (IST),11/9/2017,288757e,CSI,GV updates for bundle UnifiedServices_FOBPM_ProductManagement 224.0
+351264,CSI,Severity 1,Testing,Mobility,End to End Test (E2E),11/9/2017,289266d,CSI,BNS_E2E_R1711_289266d_SMARTB soc removed but Aegis services are not deprovisioned in Hiya
+351198,CSI,Severity 3,UAT - User Acceptance Test,Mobility,User Acceptance Test (UAT),11/9/2017,298849,CSI,Vodafone DUCS issue
+351225,CSI,Severity 2,Development,Other,Unit Test,11/9/2017,2017B33772,CS BOBPM,IR# 1056278 1712 - D1A - M2E - com.att.csid:GCPServiceAssurance_EnterpriseCustomerAndMore:224.0.0 Incorrect POST_JVM_ARGS values in swm-var-m2e.txt  
+351049,ATTeBiz,Severity 2,Design,Other,Assembly Test,11/9/2017,284465h,CS FOBPM,CreateOrganizationAndAdminID-FederalContractType field is string without max size limit EDF GDB size is 50 .
+351512,CSI,Severity 1,Environment,Other,Iteration Test,11/9/2017,287493a,CSI,1710 CSI Environment->Config Changes
+350961,CSI,Severity 2,Environment,Mobility,Integrated Systems Test (IST),11/9/2017,294739a,CSI,Premier EBill: First Net logo is Not populating on BAN Ready Email Alert Notification
+351055,ATTeBiz,Severity 2,Design,Other,Assembly Test,11/9/2017,284465h,CS FOBPM,UpdateOrganizationProfile-FederalContractType field is string without max size limit EDF GDB size is 50 .
+351393,OCE,Severity 1,Development,Mobility,Integrated Systems Test (IST),11/9/2017,291993,CSICustomer Care,1711_Device Unlock Enhancement to Go Phone Policy_S/SS in OCE UI is not getting updated after update call | T2
+350200,CSI,Severity 1,UAT - User Acceptance Test,Other,User Acceptance Test (UAT),11/8/2017,289193,CSI,289193 | IPFlex UAT |  CSI error with permissions
+349512,CS WFBPM,Severity 3,Development,N&SS,Integrated Systems Test (IST),11/8/2017,295674,CS WFBPM,1710_Q27C_CSWFBPM_295674_ instead of getting Thank you email we are getting initial email repeatedly
+350062,CSICustomer Care,Severity 2,Development,Other,Sanity / Shakeout,11/8/2017,Regression,CSICustomer Care,Potential IVP issue for 1710. Bundle : CustomerCarePayments_Prepaid.  Developer verification required.
+349690,"MyATT, MSe",Severity 1,Development,Mobility,Integrated Systems Test (IST),11/8/2017,296645,CSI,2017.11.b_REG_Getting invalid store item for IAQ service response
+349769,OCE,Severity 1,IST - Integrated System Test,Mobility,Integrated Systems Test (IST),11/8/2017,291993,CSICustomer Care,1711_Device Unlock Enhancement to Go Phone Policy_IDD API response is not displaying properly for V124.
+349708,CSICPSVC,Severity 1,Development,Other,Integrated Systems Test (IST),11/8/2017,Regression,CSICPSVC,1710 CST CSI Q27c GetE911Address: CPS.ADP-0001 error returning for Get by CTN for Expired address
+349393,CSI,Severity 3,Environment,Mobility,Integrated Systems Test (IST),11/8/2017,Regression,CSI,R1710:Few attributes not replicating to CCR LDAP SS hence getting mismatch in UST.
+349267,CSI(FED) - iCAS,Severity 2,IST - Integrated System Test,Mobility,Integrated Systems Test (IST),11/8/2017,300547,CSI,SearchPolicyAttributes is not pulling AM status (CSIFED-ICAS ADOPTER ISSUE)
+349965,CSICustomer Care,Severity 3,Deployment,Other,Integrated Systems Test (IST),11/8/2017,288662b,CSICustomer Care,Please add LP mask at the end of tibco.clientVar.IAP_ALL_MASK_VALUES
+350106,CSI,Severity 1,IST - Integrated System Test,Mobility,Integrated Systems Test (IST),11/8/2017,288416f,CSI,1711.b_EAP_GUS_ InquireDeviceStatusService API is failing on Q25 CSI  
+349532,CSICustomer Care,Severity 2,Development,N&SS,Integrated Systems Test (IST),11/8/2017,296286,CSICustomer Care,1710_CP&TS_CSTB_InquirePrepaidSubscriberProfile_q27c_PaymentDueAmount_NegativeValue_Returning_Issue
+349313,CSI,Severity 1,UAT - User Acceptance Test,Business Solutions,End to End Test (E2E),11/8/2017,295167,CSI,ETE-295167-1710-SD-UCT-Order is not getting checked out - Call for InquireNetworkOrderProvisioningDetails from CSIGRID failed
+350251,AAP/BF,Severity 1,End to End Test,Mobility,End to End Test (E2E),11/8/2017,289266d,CSICPSVC,Experiencing 500-type errors when doing API calls to https://api-s3.bf.sl.attcompute.com/serviceProvisioning/v4/services/callmgmt/account or /eligibility
+349730,CSICPSVC,Severity 1,Development,Mobility,End to End Test (E2E),11/8/2017,289266d,CSICPSVC,BNS_E2E_R1711_289266d_Subscribers are not getting Downgraded after expiring receipt in Apple DB
+349896,GRP-MHS External Client Support (ECS),Severity 3,UAT - User Acceptance Test,Mobility,User Acceptance Test (UAT),11/8/2017,295535a,CSICustomer Care,We are seeing high response time from DLA Adapter
+349892,CSICPSVC,Severity 2,Development,Mobility,Integrated Systems Test (IST),11/8/2017,300735,CSICPSVC,"1710 CST CSI Q27C CreateIntegratedOffer dtvnow, when CIO by BanPn sending no payload offers (tests default) , Grid sometimes gets 3 offers instead of expected 2."
+349778,CSICPSVC,Severity 2,Development,Mobility,End to End Test (E2E),11/8/2017,289266d,CSICPSVC,BNS_E2E_R1711_289266d_Apple Receipts are not updating in CCRR-SOR DB after Upgrade Flow.
+349971,CSI,Severity 1,IST - Integrated System Test,Mobility,Integrated Systems Test (IST),11/8/2017,288416f,CSI,1711.b_EAP_GUS_InquireEIDDetailsServiceResponse is failing on Q25 CSI  
+348351,CSI,Severity 3,Production Problem Management,Mobility,Production,11/7/2017,Production Fix,CSI,30000109001 ? subscriberNumber Does Not Exist
+348624,OCX,Severity 1,IST - Integrated System Test,Business Solutions,Integrated Systems Test (IST),11/7/2017,Regression,CSI,HALO | IST | ST5/1710 | Track1 | IPFLEX MACD Regression | AEOD failed
+348268,CSICustomer Care,Severity 1,Development,Mobility,User Acceptance Test (UAT),11/7/2017,296286,CSICustomer Care,1710_Retail UAT_K296286_OPUS/OM_Multi line Owner account summary screen_Payment due is displaying Negative amount and it should not.
+348379,CSICPSVC,Severity 1,Development,Mobility,End to End Test (E2E),11/7/2017,289266d,CSICPSVC,1710_E2E_289266d_Subscribers are not getting Downgraded after expiring receipt in Apple DB
+348257,CSI,Severity 1,End to End Test,Mobility,End to End Test (E2E),11/7/2017,290426d,CSI,BNS_E2E_R1711_290426d_ CSI_Getting 500 internal Server error
+348383,CSI,Severity 1,Triage,Business Solutions,Integrated Systems Test (IST),11/7/2017,Regression,CSI,R1710 | HALO|IST| ADI| Regression |Orders are failing to update in Grid with permissions error
+348761,Granite-NIS,Severity 2,Testing,Other,Unit Test,11/7/2017,287116,CSIAdapter,Request for Adapter config update in Test environment
+347701,CSI,Severity 2,End to End Test,Mobility,End to End Test (E2E),11/7/2017,289266d,CSI,1710_E2E_289266d_eCDW extracts for SOC cleanup and send to BOBPM to process
+348445,CSICustomer Care,Severity 2,Development,N&SS,Integrated Systems Test (IST),11/7/2017,299488,CSICustomer Care,R1710_QCPod_UverseAccountProfile_has private request different then IISAD which returns different data in both API
+348337,CSICustomer Care,Severity 2,IST - Integrated System Test,N&SS,Integrated Systems Test (IST),11/7/2017,299488,CSICustomer Care,1710_(QCPOD) _ UvAP is not returning correct Attribute filters for ProductComponentDetails
+347913,CSIProduct and Offer Mgt,Severity 2,Development,N&SS,Integrated Systems Test (IST),11/7/2017,299488,CSICustomer Care,R1710_PID299488_POD env_EPQ_Invalid_QuoteID returning incorrect error code -  message ID and description
+347077,CSIProduct and Offer Mgt,Severity 2,Development,N&SS,Integrated Systems Test (IST),11/6/2017,299488,CSICustomer Care,R1710_PID299488_POD env_EPQ_ Return Parse Exception_Error_400 is returning invalid error message and code
+346557,CSIProduct and Offer Mgt,Severity 2,Development,N&SS,Integrated Systems Test (IST),11/6/2017,299488,CSICustomer Care,R1710_PID299488_POD env_EPQ_Invalid password not mapped to correct error code
+347048,CSI(FED) - B2BI GATEWAY,Severity 2,IST - Integrated System Test,Business Solutions,Integrated Systems Test (IST),11/6/2017,253139al,CSI,"Request queue is not available, since no listeners are available for message processing"
+346975,CSICPSVC,Severity 2,Development,N&SS,Integrated Systems Test (IST),11/6/2017,289584c,CSICPSVC,BF_SIT_12.17_Publish_Real Time Text - Resellers (Micro Service)_S5: Getting extra fields in geteligibility call response.
+346844,CSIProduct and Offer Mgt,Severity 2,Development,N&SS,Integrated Systems Test (IST),11/6/2017,299488,CSICustomer Care,R1710_PID299488_POD env_EPQ_Missing required header is returning invalid error message and code
+346606,CSI,Severity 1,Environment,Other,Unit Test,11/6/2017,2017A33772,CSI,1802 Q28HA -- Error in Nagios during smoketest validation
+346860,CSI,Severity 1,Environment,Other,Iteration Test,11/6/2017,287493a,CSI,1710 CSI Environment->Config Changes
+346374,CSICPSVC,Severity 2,Development,Other,Integrated Systems Test (IST),11/6/2017,Regression,CSICPSVC,1710 CST CSI Q27c E911Address: Code X error returning
+346856,CSIProduct and Offer Mgt,Severity 2,Development,N&SS,Integrated Systems Test (IST),11/6/2017,299488,CSICustomer Care,R1710_PID299488_POD env_EPQ_Missing required parameter is returning invalid error message and code
+346600,CSIProduct and Offer Mgt,Severity 2,Development,N&SS,Integrated Systems Test (IST),11/6/2017,299488,CSICustomer Care,R1710_PID299488_POD env_EPQ_Operation Timed out_the correct Message ID is not being returned
+346634,CS WFBPM,Severity 1,Development,N&SS,Integrated Systems Test (IST),11/6/2017,295674,CS WFBPM,1710_Q27C_CSWFBPM_295674_DME2 is failing
+346883,CSIProduct and Offer Mgt,Severity 2,Development,N&SS,Integrated Systems Test (IST),11/6/2017,299488,CSICustomer Care,R1710_PID299488_POD env_EPQ_Invalid characters in the request is returning invalid error message and code
+347088,CSICPSVC,Severity 2,Development,DTV,Integrated Systems Test (IST),11/6/2017,300735,CSICPSVC,"R1710_ServiceAccount_Error : CSI system error , CPS.CSI0002"
+347002,CSIProduct and Offer Mgt,Severity 2,Development,N&SS,Integrated Systems Test (IST),11/6/2017,299488,CSICustomer Care,R1710_PID299488_POD env_EPQ_ Invalid request format is returning invalid error message and code
+347181,CSICustomer Care,Severity 2,Development,N&SS,Integrated Systems Test (IST),11/6/2017,299488,CSICustomer Care,1710_(QCPOD) _ UvAP is not returning broadbandConnectedIndicator under receiver detail in Asset
+346942,CS BRMS,Severity 1,Development,Mobility,Integrated Systems Test (IST),11/6/2017,282497c,CS BRMS,1710_Customerinvoicerules_An error is occurred while executing rules in unify
+345910,CSICPSVC,Severity 2,Development,Mobility,Integrated Systems Test (IST),11/5/2017,300735,CSICPSVC,"1710 CST CSI Q27C GetIntegratedOffer dtvnow, when one of two phone numbers has HBOSKNY, GIO by Pn for both Pns return hboskny (expected on only 1)"
+345911,CSICPSVC,Severity 2,Development,Mobility,Integrated Systems Test (IST),11/5/2017,300735,CSICPSVC,"1710 CST CSI Q27C GetIntegratedOfferEligibility dtvnow, when one of two phone numbers has HBOSKNY, GIOE for PN without HBOSKNY shows eligible for two offers instead of expected zero offers."
+345920,CSICPSVC,Severity 2,Development,Mobility,Integrated Systems Test (IST),11/5/2017,300735,CSICPSVC,"1710 CST CSI Q27C DeleteIntegratedOffer dtvnow, by BAN, delete one of two offers was deleted from GRID (expected), and unexpectedly gone from TLG"
+345853,CSICPSVC,Severity 2,Development,Mobility,Integrated Systems Test (IST),11/5/2017,300735,CSICPSVC,"1710 CST CSI Q27C CreateIntegratedOffer dtvnow, subscriber gets three offers when default is sent  for subscriber with 25dolrdisc"
+345448,CSI,Severity 2,Development,Other,Unit Test,11/3/2017,2017B33772,CS BOBPM,IR# 1054838 com.att.csid:DTVEngineering_ProvisioningAndMore:[212.0.16] Error in log Rel: 1712    
+344609,CSIOrder and Subscription Mngt,Severity 2,IST - Integrated System Test,N&SS,Integrated Systems Test (IST),11/3/2017,297749,CSI,R1710_PID297749_Q25_AEOD/CDH throwing Error 100
+345221,CSICustomer Care,Severity 2,Development,N&SS,Integrated Systems Test (IST),11/3/2017,299488,CSICustomer Care,1710_Q27c (POD URL hltv0671)_UverseAccountProfile Error 500 not returning when request contains invalid character
+344617,CSI,Severity 1,IST - Integrated System Test,Business Solutions,Integrated Systems Test (IST),11/3/2017,292357,CSI,SDMX | 5K TN's | COLLABORATE | IST | R1710 | Order Stuck at Load ported TN Activtiy in OMS DB
+345398,CSICustomer Care,Severity 3,Environment,N&SS,Integrated Systems Test (IST),11/3/2017,Regression,CSICustomer Care,1710_CP&TS_CSTB__Q27C_InquireUnifiedCustomerProfileByServiceLocation_CCRR_ getCustomerProfileNrtDME2_is failing
+344845,CSIAdapter,Severity 2,UAT - User Acceptance Test,Mobility,User Acceptance Test (UAT),11/3/2017,298592,CSIAdapter,InquireSubscriptionEligibility failing in 1710 CSI Q25
+344970,CSI,Severity 1,IST - Integrated System Test,Business Solutions,Integrated Systems Test (IST),11/3/2017,295863,CSI,HALO - IST - AVPN - ADI- R1710 - AVPN ETH Connect - AEOD failed with permission issue
+344999,CSIAdapter,Severity 1,Development,Mobility,End to End Test (E2E),11/3/2017,297327b,CSIAdapter,BNS_E2E_1711_297327b_Unable to see devices for store D111_zipcode: 75252 in PQCE17
+344766,CSI,Severity 2,End to End Test,Business Solutions,End to End Test (E2E),11/3/2017,295167,CSI,ETE-295167-1710-SD-Regression-AEOD Failed
+343204,CSICPSVC,Severity 2,Development,Mobility,Integrated Systems Test (IST),11/2/2017,300735,CSICPSVC,1710 CST CSI Q27C CreateIntegratedOffer dtvnow subsequent Create fails when success expected
+343299,CSINetwork Management,Severity 2,Environment,Other,Integrated Systems Test (IST),11/2/2017,Regression,CSIAdapter,Release 1710-BBNMSHTTP-Q27C-To hit the URL to live Backend.
+344012,CSICustomer Care,Severity 2,Development,N&SS,Integrated Systems Test (IST),11/2/2017,299488,CSICustomer Care,1710_Q27c (POD URL hltv0671)_UverseAccountProfile Error messageId comes back empty/null
+343500,CSI,Severity 1,IST - Integrated System Test,Other,Integrated Systems Test (IST),11/2/2017,298314,CSI,1710 - CSI_SMS - SendSMS
+343542,Not An Application,Severity 1,Development,Mobility,End to End Test (E2E),11/2/2017,289266d,CSICPSVC,BNS_E2E_R1711_289266d_ On IOS not able to upgrade to advance feature_App lookout and HIYA
+344064,CSI,Severity 2,Development,Other,Unit Test,11/2/2017,2017B33772,CS BOBPM,IR# 1054019 com.att.csid:FOBPMSubscribersAndServices_FOBPM_M2M:215.0.32 Error in log Rel :1712  
+343346,CSINetwork Management,Severity 2,Environment,Other,Integrated Systems Test (IST),11/2/2017,Regression,CSIAdapter,1710_Q27c_Need changes for GVs to hit to Devtest/ITKO Env(Q27b)
+343638,CSI,Severity 1,IST - Integrated System Test,Business Solutions,Integrated Systems Test (IST),11/2/2017,295863,CSI,HALO - IST - AVPN - ADI- R1710 - AVPN ETH Connect - AEOD failed with permission issue
+344065,CSI,Severity 2,Development,Other,Unit Test,11/2/2017,2017B33772,CS BOBPM,IR# 1054019 com.att.csid:FOBPMSubscribersAndServices_FOBPM_M2M:215.0.32 Error in log Rel :1712  
+344095,GRP-EQE Mobility E2E,Severity 1,End to End Test,Mobility,End to End Test (E2E),11/2/2017,298849,CSI,1710_E2E_298849_Vodafone-Getting error when moving prepaid to SDG account via Portal-M127
+413711,GRP-ET-Cloverleaf,Severity2,EndtoEndTest,ECP-Cloverleaf,EndtoEndTest(E2E),1/28/2018,282215,CSFOBPM,PID282215-1802-OrdersarenotreachingtoBRASSUAT.
+413413,vTM,Severity2,UAT-UserAcceptanceTest,Mobility,UserAcceptanceTest(UAT),1/26/2018,294739d,CSI,1802UATBCS-294739d-InboundSalesforce-SmallAttachmentsareNotVisibleinvTM
+413361,AOFLOW,Severity1,IST-IntegratedSystemTest,ECP-Cloverleaf,EndtoEndTest(E2E),1/26/2018,282215,CSFOBPM,18.02-PID-282215_NotgettingtimeouterrorresponsefromCSFOBPM
+413185,CSFOBPM,Severity1,Development,Mobility,IntegratedSystemsTest(IST),1/26/2018,294546,CSFOBPM,294546FOBPMGettingerrorthatCTNUpliftextensioncannotbeprocessed
+413039,CSICustomerCare,Severity1,IST-IntegratedSystemTest,U-verse,IntegratedSystemsTest(IST),1/26/2018,298822a,CSICustomerCare,R1802+Progression+PID298822a+Story266451--GettingServicePolicyMaskinvaliderrorforCSIInquireAccountProfileAPI
+413010,CSI,Severity1,ProductionProblemManagement,DTV,ProductionValidationTest(PVT),1/26/2018,297518a,CSIAdapter,"PVTDTVRTPWeareunabletoaddDTVBasePackage,theselectbuttonisnotworking"
+412935,AOFLOW,Severity1,IST-IntegratedSystemTest,ECP-Cloverleaf,EndtoEndTest(E2E),1/26/2018,282215,CSI,18.02-PID-282215_NotgettingResponsefromAOFLOWwebresponseURL
+412885,CSI,Severity1,EndtoEndTest,DTV,EndtoEndTest(E2E),1/26/2018,Regression,CSI,1802_MPIE_R1523VIC_GettingDownstreamConnectionIssueaftervalidateOrder
+412837,GRETA,Severity1,Environment,Other,IntegratedSystemsTest(IST),1/26/2018,2017S33772,CSI,InquireEthernetDetailsFailinginq25andq28Environment
+412719,CSI,Severity2,Development,Other,UnitTest,1/25/2018,127102,CSI,BundleversionNOTinsyncformafNETWORK_EBM130.0.2
+412704,(FED)-MIC,Severity2,Development,Other,UnitTest,1/25/2018,2017B33772,CSBOBPM,IR1086432mafCSI_MIC218.0.8BundleVersions.txtnotinsyncRel1803
+412679,CSICustomerCare,Severity1,EndtoEndTest,Mobility,EndtoEndTest(E2E),1/25/2018,300238a,CSICustomerCare,1802_E2E_300238a_AllTRXarehittingQ30CSInotQ28
+412661,CSICustomerCare,Severity2,Development,N&SS,IntegratedSystemsTest(IST),1/25/2018,Regression,CSICustomerCare,R1802_CP&TS_CSTB_ManagePrepaidMultilineAccounts_Q30B_not_getting_expected
+412652,CSWFBPM,Severity2,Development,N&SS,IntegratedSystemsTest(IST),1/25/2018,297620,CSFOBPM,Q30B_CSWFBPM_297620_Privacytransformation_automaticretry_200error
+412639,CSICustomerCare,Severity2,Development,N&SS,IntegratedSystemsTest(IST),1/25/2018,Regression,CSICustomerCare,1802_CP&TS_CSTB_Q30B_UpdatePrepaidSubscriberProfile_200_Service_Unavailabvle
+412589,Premier,Severity3,Sustainment,Mobility,Production,1/25/2018,Regression,CSI,POCUpgradeEligibilityReportshowingactiveCTNsasnotvalid
+412580,GRP-BNSE2EMobility,Severity1,EndtoEndTest,Mobility,EndtoEndTest(E2E),1/25/2018,300434,CSBOBPM,BNS_E2E_1802_300434_QCI9_ThrottlingSOCCONSRVCCisnotgettingaddedinTLG
+412462,CSI,Severity1,EndtoEndTest,Converged,EndtoEndTest(E2E),1/25/2018,295582,CSI,R1802-DTVNOW-Nostorage-enablednodesexistforserviceDistributedCache-TLGSOCsarenotupdatedasperIRE
+412436,CSI,Severity3,Environment,Other,Sanity/Shakeout,1/25/2018,288761d,CSIAdapter,GVValue(MQ)changes-Q44environment
+412410,CSI,Severity3,Environment,Other,Sanity/Shakeout,1/25/2018,288761d,CSIAdapter,GVValuechanges-Q44environment
+412355,CSIAdapter,Severity2,TIER2,Other,Production,1/25/2018,302209,CSIAdapter,CSImafMOBILITY_RETAILadapterAnerroroccurredwhileprocessingrequestforXI.
+412340,CSICustomerCare,Severity1,Triage,Mobility,EndtoEndTest(E2E),1/25/2018,296286a,CSICustomerCare,CSIclientisgetting>MessageHeaderhasInvalidorMissingdata.errorfromQ28
+412256,CSFOBPM,Severity2,Development,N&SS,IntegratedSystemsTest(IST),1/25/2018,294564b,CSFOBPM,BF_02.18_SIT_Non-Publish_FirstNetIOC2_S2Callsarepassingthroughwhensendingmorethan1000CTNsintherequest.
+412088,CSI,Severity1,Environment,Mobility,Sanity/Shakeout,1/25/2018,299673,CSI,1802Q29A-MoveMobileSubscriberisfailingwithNoResponseonLocalQueue/-4a6ff98516127824bb9-7556
+412066,GRP-BNSE2EMobility,Severity1,EndtoEndTest,Mobility,EndtoEndTest(E2E),1/25/2018,290426f,CSI,BNS_E2E_R1802_290426f_SessionEligibilityFailingforTestClient
+412049,CSICPSVC,Severity3,IST-IntegratedSystemTest,Mobility,IntegratedSystemsTest(IST),1/25/2018,295511,CSICPSVC,R1802_UnifiedVoiceHosting_UpdateEnterpriseSubscriber_UpdateEnterpriseMobilityDetailsdoesnotsupportthestatusupdate
+412034,CSICustomerCare,Severity2,Development,N&SS,IntegratedSystemsTest(IST),1/25/2018,295667d,CSICustomerCare,R1802_CP&TS_CSTB_InquireSubscriberPromoDetails_Q30B_Not_Getting_Expected_Response
+412023,CSITroubleManagement,Severity3,Environment,Other,IntegratedSystemsTest(IST),1/25/2018,Regression,CSIAdapter,1802_Q30b_ANETR_200Error_ServiceUnavailable
+412002,CSICPSVC,Severity2,Development,Mobility,IntegratedSystemsTest(IST),1/25/2018,295511,CSICPSVC,R1802_Q30b_UnifiedVoiceHosting_DeleteEnterpriseSubscriber
+412001,CSICustomerCare,Severity2,Development,Mobility,IntegratedSystemsTest(IST),1/25/2018,Non-ITOrg,CSICustomerCare,EaslivrRequiresversionextensionfor4servicesforv112to1812release
+411957,CSBOBPM,Severity1,EndtoEndTest,Converged,EndtoEndTest(E2E),1/25/2018,295582,CSBOBPM,R1802-DTVNOW-TLGSOCsarenotupdatedasperIREResponse
+411834,CSBOBPM,Severity1,EndtoEndTest,Mobility,EndtoEndTest(E2E),1/25/2018,288416i,CSBOBPM,1802_E2E_R288416_GettingNostorage-enablednodesexceptionforPublishDeviceDetails
+411817,CSICustomerCare,Severity1,Development,Mobility,EndtoEndTest(E2E),1/25/2018,296764,CSICustomerCare,1802_E2E_R270171_GettingerrorwhileacceptingTnC'sinGettingstartedflow(QA2)
+411500,CSICustomerCare,Severity3,Development,Other,UnitTest,1/25/2018,2017B33772,CSICustomerCare,Bundleversionmismatchforcom.att.csidCustomerCareProfile_EnterpriseDeviceDeployment206.0.26release1804.
+411353,CSICustomerCare,Severity2,Environment,Other,IntegratedSystemsTest(IST),1/24/2018,Regression,CSICustomerCare,R1802_CP&TS_CSTB_InquireCustomerSnapshot_Q30B_SuccessResponse_For_Invalid_DATA
+411342,CSICustomerCare,Severity2,Development,Other,IntegratedSystemsTest(IST),1/24/2018,295667d,CSICustomerCare,R1802_CP&TS_CSTB_InquireSubscriberPromoDetails_Q30B_Kit_Deployment_Issue
+411308,CSFOBPM,Severity1,Development,Mobility,IntegratedSystemsTest(IST),1/24/2018,294546,CSFOBPM,1802-FirstNet-IMLC-CTNstatusdoesnotreverttoEligibleafterupliftisexpired.
+411295,CSI,Severity2,Environment,U-verse,AssemblyTest,1/24/2018,Regression,CSIAdapter,updateGVvaluesforBundlenameUnifiedServices_FOBPM_ProductManagement
+411245,CSBOBPM,Severity1,Data,Mobility,EndtoEndTest(E2E),1/24/2018,Regression,CSBOBPM,1802_E2E_R111409_DUCSRulesnottriggeredforGoodwillSocAGW1G60DC
+411231,CSIWorkForce,Severity2,IST-IntegratedSystemTest,Other,IntegratedSystemsTest(IST),1/24/2018,292672c,CSIWorkForce,CSIIssueconfiguringAdapter-Q28Serviceerroringout
+411134,CSICPSVC,Severity1,Development,Mobility,EndtoEndTest(E2E),1/24/2018,294546,CSICPSVC,trackingdefectfor-411061-294546-LTEdataonlyuplifting
+411103,CSICustomerCare,Severity2,Development,N&SS,IntegratedSystemsTest(IST),1/24/2018,Regression,CSICustomerCare,1802_CP&TS_CSTB_InquireCustomerSnapshot_Q30B_Version_Issue
+411061,CSICPSVC,Severity1,Development,Mobility,IntegratedSystemsTest(IST),1/24/2018,294546,CSICPSVC,294546LTEdataonlyupliftingfeatureissue
+411036,CSIAdapter,Severity2,Environment,N&SS,IntegratedSystemsTest(IST),1/24/2018,Regression,CSFOBPM,1802_Q30B_FOBPMOrders_FOBPM_AssociationsAndMore_RetrieveTNPortingAssociations_PleaseupdatetherequiredchangesinGV
+411025,GRP-BNSE2EMobility,Severity1,EndtoEndTest,Mobility,EndtoEndTest(E2E),1/24/2018,290426f,CSI,BNS_E2E_R1802_290426f_SessionEligibilityFailingforTestClient
+410825,CSI,Severity2,Environment,Other,IntegratedSystemsTest(IST),1/24/2018,291600d,CSI,R1802+CSIConfigUpdates-Q29C--UpdateGVfortibco.clientVar.ServiceAdapterConfig/ISAACWFEHTTPS
+410745,"MyATT,MSe",Severity1,IST-IntegratedSystemTest,Mobility,IntegratedSystemsTest(IST),1/24/2018,Regression,CSI,R1802_RegressionGettingintermittentloginissueson1802and1803environments
+410681,CSICustomerCare,Severity2,Development,N&SS,IntegratedSystemsTest(IST),1/24/2018,281112b,CSICustomerCare,1802_CP&TS_CSTB_InquirePurchaseOrderInvoice_Q30A_v227_CSICCcode_Issue
+410662,"MyATT,MSe",Severity1,Data,Mobility,IntegratedSystemsTest(IST),1/24/2018,292456h,CSI,R1803_Overview_MDUOnlineSupport_RWD_facingestimatedfirstbillexperienceforalllifecycledata
+410621,CSICustomerCare,Severity2,Environment,N&SS,IntegratedSystemsTest(IST),1/24/2018,Regression,CSIAdapter,1802_CP&TS_CSTB_Q30B_InquireBundledAccountProfile_Config_Change_for_Simulator
+410588,OPUS-C,Severity1,IST-IntegratedSystemTest,Mobility,IntegratedSystemsTest(IST),1/24/2018,297226a,CSI,1802_OPUSCC_Getting2001300000014DownstreamConnectionIssuewhenclickingonvalidateorderfornewdtv
+410546,AAP/BF,Severity2,Testing,Other,IntegratedSystemsTest(IST),1/24/2018,301020,CSI,BF_02.18_SIT_Non-Publish_MobileSecurity&CallProtectOpt-in_S2Facing500and504GatewayTimeoutintermittentissueinGetconsentforserviceidcallmgmtandsecurewifi
+410478,CSI,Severity3,Development,Other,IntegratedSystemsTest(IST),1/24/2018,Regression,CSI,TNIfailingbyError014(Hostsystemunabletoprocesstransaction)forSWandWregionforW01(18.03).API-InquireAvailableTelephoneNumbers
+410062,CSI(FED)-SSDF,Severity2,Development,Other,UnitTest,1/23/2018,2017B33772,CSBOBPM,IR1084928com.att.csidCustomerCareProfile_AccountProfile224.0.30BundleVersions.txtnotinsyncRel1802
+410009,CSBOBPM,Severity2,Development,N&SS,IntegratedSystemsTest(IST),1/23/2018,Regression,CSBOBPM,1802_Q30B-CSBOBPM-DeleteSubscriberSOCProfile-GettingPre-IVPMessageHeadervalidationerrorfromUpdateSubscriberProfile
+409932,CSBRMS,Severity3,Development,N&SS,IntegratedSystemsTest(IST),1/23/2018,Regression,CSBRMS,com.att.csbrms.processrulesmgmt.brm.brc.TreatmentRulemserrormappingissue
+409882,CSICPSVC,Severity2,Development,Mobility,IntegratedSystemsTest(IST),1/23/2018,301020,CSICPSVC,ValidatePayloadtobemovedtoSyncflow
+409821,CPS,Severity1,Development,Mobility,IntegratedSystemsTest(IST),1/23/2018,295511,CSICPSVC,1802_CP&TS-ACSFOBPM_Q30B_ProcessEnterpriseProvisioningOrder_FacingCPSerror
+409758,CSI,Severity1,Environment,N&SS,IntegratedSystemsTest(IST),1/23/2018,301218,CSI,BF_02.18_SIT_NonPublish_CSIGRID_S2_RealTimeTextPhase2-v2GetEligibilitycall-shows500ISE
+409218,CSI,Severity2,Environment,Other,IntegratedSystemsTest(IST),1/23/2018,296577c,CSI,EASESWTNReservationFailures
+409163,CSICustomerCare,Severity2,Environment,N&SS,IntegratedSystemsTest(IST),1/23/2018,Regression,CSICustomerCare,"R1802_CP&TS_InquireCustomerSnapshot_Q30b_Nullnotallowed,number1_error_from_csi"
+409117,GRP-EQEMobilityE2E,Severity1,EndtoEndTest,Mobility,EndtoEndTest(E2E),1/23/2018,288416i,CSI,1802_E2E_R288416_NoCTNinInquireEIDDetailsrequestcall
+409108,"MyATT,MSe",Severity1,IST-IntegratedSystemTest,Mobility,IntegratedSystemsTest(IST),1/23/2018,292456h,CSI,R1803_MyServices_MDUOnlineSupport_Web_GettingErrorOnDTVPage
+408952,(FED)-COMS,Severity1,Testing,Mobility,Sanity/Shakeout,1/23/2018,300434,CSI,Gettingexception'UnabletoParseResponsefromServiceEntity'in1802environment
+408949,CSFOBPM,Severity1,Environment,Mobility,IntegratedSystemsTest(IST),1/23/2018,294719,CSFOBPM,1802_OPUSCC_GettingErrorwhiletryingtocallMaintainAffiliateAccountAssociation20000000006OperationTimedOutwhileunifyingexswlswithexsdtv
+408569,Trinity-vAS-Broadsoft,Severity2,Development,BusinessSolutions,Production,1/23/2018,295167,CSIAdapter,"Whenwetrytodeleteauserwhichiscreatedwithebizenable,itisfailing.WearegettingunsupportederrorfromeBiz"
+408436,GRP-EQEMobilityE2E,Severity1,EndtoEndTest,Mobility,EndtoEndTest(E2E),1/22/2018,300856,CSI,1802_E2E_300856_AResourceRequiredByServiceIsNotAvailablewhiletryingactivationforAcura
+408429,IVRORDERING,Severity2,Requirements,DTV,Production,1/22/2018,291600a,CSFOBPM,IVRCHANGEORDERSINPREPROD(ADD/REMOVE)ARENEEDINGTOBEHANDLEDBYICSDUETOPROVISIONINGFAILURES(ChangeProgrammingPhase3)
+408428,CSI(FED)-SSDF,Severity2,Development,Other,UnitTest,1/22/2018,2017B33772,CSBOBPM,IR1084162mafCSI_CSCR128.0.0VersionMismatchRel1802
+408424,CSI(FED)-SSDF,Severity2,Development,Other,UnitTest,1/22/2018,2017B33772,CSBOBPM,IR1083902com.att.csidCustomerCareProfileAndBilling_SubscriberProfile228.0.2ErrorinlogRel1802
+408354,(FED)-US,Severity1,Development,U-verse,ProductionValidationTest(PVT),1/22/2018,293963,CSIAdapter,PVT-WOMPh2-IUSPDFailureatBBloadAResourceRequiredbyServiceisNotAvailable
+408259,GRP-EQEMobilityE2E,Severity1,EndtoEndTest,Mobility,EndtoEndTest(E2E),1/22/2018,288416i,CSI,1802_E2E_288416i_CCRRtableisnotgettingupdatedtoONstatus
+408182,GRP-EQEHomeSolutionsE2E,Severity1,EndtoEndTest,U-verse,EndtoEndTest(E2E),1/22/2018,296041,CSI,R1802_FIE_OMS1AT01_R0281TRM--DVRGUIDisnotpulledandgivesanerror
+408180,GRP-MHSExternalClientSupport(ECS),Severity1,UAT-UserAcceptanceTest,Mobility,UserAcceptanceTest(UAT),1/22/2018,301730,CSI,ProcessDeviceFailingforApple
+408170,CSIAdapter,Severity3,Environment,N&SS,IntegratedSystemsTest(IST),1/22/2018,Regression,CSI,1802_Q30B_FOBPM_Metrocell-changeinCANOPIURL
+408166,"DDA,OOBP",Severity1,IST-IntegratedSystemTest,Mobility,IntegratedSystemsTest(IST),1/22/2018,Regression,CSI,R_1802_DDAIDBflow_addprepaidpaymentapiisfailing
+408138,CSI,Severity1,Environment,N&SS,IntegratedSystemsTest(IST),1/22/2018,301218,CSI,BF_02.18_SIT_NonPublish_CSIGRID_S2_RealTimeTextPhase1-v2GetEligibilitycall-shows500ISE
+408075,CSFOBPM,Severity3,IST-IntegratedSystemTest,ECP-Cloverleaf,IntegratedSystemsTest(IST),1/22/2018,282215,CSFOBPM,CSFOBPMHSIAEOrdering-notreturninganasyncresponseaftergettingamissingoremptydslOrderDetails.buildingContactDetails
+407920,CSICPSVC,Severity1,EndtoEndTest,Mobility,EndtoEndTest(E2E),1/22/2018,290426f,CSICPSVC,BNS_E2E_R1802_290426f_Facing500servererror
+407868,CSI,Severity1,Development,N&SS,IntegratedSystemsTest(IST),1/22/2018,Regression,CSI,1802_Q30B-CSBOBPM-DeleteSubscriberSOCProfile-Getting200servicenotavailableerrorfromUSPduetoversionmis-matchissue
+407767,OPSS,Severity1,IST-IntegratedSystemTest,Mobility,IntegratedSystemsTest(IST),1/22/2018,Regression,CSI,R1803--OPSS--IST4--Supersede--GettingSD026erroranduserisnotabletoproceed.
+407747,BRIDGEVINE,Severity1,Development,Converged,EndtoEndTest(E2E),1/22/2018,298535a,CSI,R1802_FIE_N1529VIC_337024690_Gettingexceptionwhileconfiguring3rdpartyinLSP2store
+407723,GRP-EQEMobilityE2E,Severity1,EndtoEndTest,Mobility,EndtoEndTest(E2E),1/22/2018,288416i,CSICPSVC,1802_E2E_R288416_TwinningstatusremaininPendingCreate
+407678,CSICustomerCare,Severity2,Development,Other,ComponentTest,1/22/2018,299488,CSICustomerCare,"inCSICCRR_2_CSI_ISCPIntermediateGetDTVInfo_to_InquireSatelliteCustomerProfileResponse_DetailMode,customers-customers-customers-account-dealerAccountisdefinedas1..*,shouldbe0..*"
+407666,CSICustomerCare,Severity2,Development,Other,ComponentTest,1/22/2018,299488,CSICustomerCare,"Amountfieldshaddecimalplacetruncatedintheresponse,e.g.SCPreturnslastPaymentAmount-282,vsISCPreturns<lastPaymentAmount>-282.11</lastPaymentAmount>"
+407628,myAT&TSales,Severity2,Sustainment,U-verse,Production,1/22/2018,ProductionFix,CSIAdapter,CamundaCDEHSINTERNETCHANGE+IPTVCHANGE+VOIPNO_CHANGE=AUTOMATIONFAILED(PUSPOQUOT/COMPHASSEVERITYGREATERTHANEQUALTO4)[](ERRORPUSPOSEV)
+406900,GRP-EQEMobilityE2E,Severity1,EndtoEndTest,Mobility,EndtoEndTest(E2E),1/20/2018,288416i,CSI,1802_E2E_R288416_GettiingcsiexceptioninPublishDeviceDetailscall
+406749,CSIWorkForce,Severity3,Development,Other,Production,1/19/2018,298592,CSIWorkForce,"STI-v98InquireAvailableFiberServiceAppointments,InquireWirelineFiberServiceAppointmentsVersionExtensionuntil1808"
+406748,CSI,Severity1,EndtoEndTest,BusinessSolutions,EndtoEndTest(E2E),1/19/2018,298931,CSI,Flexware-E2E-1710-298931-OCTUAT-unabletocreateorderinSDNOM
+406743,CSICustomerCare,Severity3,Development,Other,Production,1/19/2018,298592,CSIWorkForce,STI-v98InquireCustomerAccountDetailsVersionExtensionuntil1808
+406706,CSICustomerCare,Severity3,Development,Other,Production,1/19/2018,298592,CSICustomerCare,STI-v98InquireUnifiedAccountProfileVersionExtensionuntil1808
